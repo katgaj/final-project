@@ -1,3 +1,9 @@
+---
+title: How to write error messages
+layout: default
+nav_order: 4
+---
+
 # How to write error messages #
 
 “The best error message is the one that never shows up” — Thomas Fuchs
