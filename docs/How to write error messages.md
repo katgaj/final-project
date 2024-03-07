@@ -12,7 +12,7 @@ The basic idea is to think of potential errors during the process of creating th
 
 You have to make it clear that the error occured (visibility of system status). The best option is to display the error message close to the error's source.
 
-![visibility]../images/(visibility.png)
+![visibility](visibility.png)
 
 przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
