@@ -1,3 +1,10 @@
+---
+title: Types of errors
+layout: default
+nav_order: 2
+---
+
+
 # Types of error messages #
 
 Jakob Nielson distinguishes between two types of errors: **slips** and **mistakes**. Slips are unintentional (right intent, wrong action), while mistakes are described as wrong intent.
