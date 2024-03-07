@@ -20,7 +20,7 @@ przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
 As Wojciech Aleksander points out in his "UX writing. Moc języka w produktach cyfrowych",when you write an error message it is best to use *inverted pyramid*:
 
-![pyramid]../images/(The-inverted-pyramid.png)
+![alt text](The-inverted-pyramid.png)
 
 The most improtant information is how to solve the problem.
 
