@@ -1,3 +1,11 @@
+---
+title: How not to write error messages
+layout: default
+nav_order: 3
+---
+
+
+
 # How not to write error messages #
 
 
