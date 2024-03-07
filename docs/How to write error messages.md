@@ -18,7 +18,7 @@ przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
 "Error messages should be expressed in **plain language** (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
-As Wojciech Aleksander points out in his "UX writing. Moc języka w produktach cyfrowych",when you write an error message it is best to use *inverted pyramid*:
+As Wojciech Aleksander points out in his "UX writing. Moc języka w produktach cyfrowych", when you write an error message it is best to use *inverted pyramid*:
 
 ![alt text](The-inverted-pyramid.png)
 
