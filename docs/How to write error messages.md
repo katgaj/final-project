@@ -20,7 +20,7 @@ przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
 As Wojciech Aleksander points out in his "UX writing. Moc języka w produktach cyfrowych", when you write an error message it is best to use *inverted pyramid*:
 
-![alt text](The-inverted-pyramid.png)
+![The-inverted-pyramid-2](The-inverted-pyramid-2.png)
 
 The most improtant information is how to solve the problem.
 
@@ -65,3 +65,6 @@ Error messages are typically presented in modal dialog boxes — overlays that p
 
 However, this quickly becomes a drawback if that attention isn’t necessary. In many cases, it’s possible to show the error messages using alternative patterns such as inline or as a status message.
 
+
+
+[def]: The-inverted-pyramid-1.png
