@@ -30,6 +30,8 @@ Compare these two messsages:
 
 ![wrong_2](wrong_2.png)
 
+
+
 ![good_podpowiedzi](good_podpowiedzi.png)
 
 The first one only communicates about the error without any expalanation what went wrong, what is missing and how to enter the correct data.
